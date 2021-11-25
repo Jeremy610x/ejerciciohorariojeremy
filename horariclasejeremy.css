@@ -1,0 +1,11 @@
+table,th,td {border: 1px solid black; border-collapse: collapse;} 
+th {text-align:center;}
+
+.m08 {
+    background-color: blue;
+}
+.m06 {background-color: green;}
+.m04 {background-color: red;}
+.m10 {background-color: silver;}
+.tuto {background-color: slateblue;}
+.m07 {background-color: yellow;}
